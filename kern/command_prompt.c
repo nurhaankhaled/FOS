@@ -1,7 +1,7 @@
 // Simple command-line kernel prompt useful for
 // controlling the kernel and exploring the system interactively.
 
-/*
+/* 
 KEY WORDS
 ==========
 CONSTANTS:	WHITESPACE, NUM_OF_COMMANDS
